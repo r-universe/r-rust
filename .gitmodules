@@ -3,3 +3,7 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gifski"]
+	path = gifski
+	url = https://github.com/r-rust/gifski
+	shallow = true
