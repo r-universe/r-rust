@@ -8,3 +8,8 @@
 	url = https://github.com/r-rust/gifski
 	shallow = true
 	registered = true
+[submodule "hellorust"]
+	path = hellorust
+	url = https://github.com/r-rust/hellorust
+	shallow = true
+	registered = true
