@@ -1,10 +1,10 @@
 [
   {
-    "package": "gifski",
+    "package": "hellorust",
     "oncran": true
   },
   {
-    "package": "hellorust",
+    "package": "gifski",
     "oncran": true
   }
 ]
